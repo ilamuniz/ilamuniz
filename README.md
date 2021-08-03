@@ -16,7 +16,7 @@ Let me present a little about myself:
 
 ___
 
-🎓  Master in Computer Science from the Univerdidade Federal da Bahia.
+🎓  Master in Computer Science from the Universidade Federal da Bahia.
 
 🎓  Bachelor of Design from the Universidade do Estado da Bahia.
 
