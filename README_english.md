@@ -35,9 +35,9 @@ ___
 
 ### Academic education:
 
-🎓  Master in Computer Science from Universidade Federal da Bahia.
+🎓  Master in Computer Science from Federal University of Bahia.
 
-🎓  Bachelor in Design from Universidade do Estado da Bahia.
+🎓  Bachelor in Design from State University of Bahia.
 
 ___
 
