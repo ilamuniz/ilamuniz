@@ -47,7 +47,13 @@ ___
 
 ### Contato:
 
-<a href="https://www.linkedin.com/in/ila-mascarenhas-muniz-58834966/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" height="30" width="110" /></a>
+<div style="display: inline_block"><br>
+
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" width="110" align ="center">](mailto:ilammuniz@gmail.com)
+
+<a href="https://www.linkedin.com/in/ila-mascarenhas-muniz-58834966/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" height="30" width="110" /></a>
+	
+</div>
 
 ___
 	
