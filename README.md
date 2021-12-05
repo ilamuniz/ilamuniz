@@ -40,9 +40,9 @@ ___
 
 ### Formação acadêmica:
 
-🎓  Mestre em Ciência da Computação pela Universidade Federal da Bahia(UFBA-BA).
+🎓  Mestre em Ciência da Computação pela Universidade Federal da Bahia (UFBA-BA).
 
-🎓  Bacharel em Design pela Universidade do Estado da Bahia(UNEB-BA).
+🎓  Bacharel em Design pela Universidade do Estado da Bahia (UNEB-BA).
 
 ___
 
@@ -55,10 +55,16 @@ ___
 <a href="https://www.linkedin.com/in/ila-mascarenhas-muniz-58834966/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" height="30" width="110" /></a>
 	
 </div>
+<div>
+	<table align="right">
+		<tr><td><a href="README_english.md"><img src="https://i.imgur.com/Ja6zOUB.png" height="18.5" align="center"> English</a></td></tr>
+		<tr><td><a href="README_espanol.md"><img src="https://i.imgur.com/aTLvLiO.png" height="18.5" align="center"> Español</a></td></tr>
+		<tr><td><a href="README.md"><img src="https://i.imgur.com/0AUV6Hy.png" height="16 align="center">  Português</a></td></tr>
+	</table>
+</div>
 
 ___
 	
 
-  - Obrigada pela visita.😄 
+  - Obrigada pela visita!😄 
  
-  
