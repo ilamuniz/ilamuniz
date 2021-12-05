@@ -31,8 +31,8 @@ ___
 	<img align="center" alt="VisualStudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 	<img align="center" alt="Intellij" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg">
 	<img align="center" alt="Jira" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" />
-	<img align="center" alt="Photoshop" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg">
-	<img align="center" alt="Illustrator" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg">
+	<img align="center" alt="Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
+	<img align="center" alt="Illustrator" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg">
 </div>
 	
 ___
@@ -47,7 +47,8 @@ ___
 
 ### Contato:
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=link_do_seu_perfil_no_linkedin)](https://www.linkedin.com/in/ila-mascarenhas-muniz-58834966/)
+<a href="https://www.linkedin.com/in/ila-mascarenhas-muniz-58834966/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" height="30" width="110" /></a>
+
 ___
 	
 
