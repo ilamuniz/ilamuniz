@@ -1,62 +1,56 @@
-### 👩‍💻 Hi! My name is Ila!
+### 👩‍💻 Oi! Meu nome é Ila!
 
 <!--
 **ilamuniz/ilamuniz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-Let me present a little about myself:
+Um pouco sobre mim:
 
-- 🔭 I’m currently use HTML, CSS, JavaScript and Git.
-- 🌱 I’m currently learning Java, Databases & Kotlin
-- 👯 I’m looking to collaborate on open source projects.
-- 💬 Ask me about anything.👧
+Sou desenvolvedora júnior. Comecei estudando sobre Interação Humano-Computador e, por isso, estudei HTML, CSS, Javascript e análise de interfaces. Atualmente, estou me concentrando em Java <img width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />, Spring Boot <img width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />, Bancos de Dados e AWS <img align = "center" src="https://i.imgur.com/IhS1TUg.png" alt="aws" width="30" height="30"/>. Estou atuando como back-end Java, mas me interesso em me tornar full stack e aprender novas linguagens.
 
 
 <div>
   <a href="https://github.com/ilamuniz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ilamuniz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilamuniz&layout=compact&langs_count=7&theme=tokyonight"></a>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ilamuniz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilamuniz&layout=compact&langs_count=7&theme=tokyonight"></a>
 </div>
 	
 ___
 	
-#### Languages:
+#### Linguagens e Ferramentas:
 
 <div style="display: inline_block"><br>
 	<img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
 	<img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
 	<img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 	<img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
-</div>
-
-#### Frameworks:
-<div style="display: inline_block"><br>
 	<img align="center" alt="Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg">
-</div>
-
-#### Work Tools:
-	
-<div style="display: inline_block"><br>
 	<img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">
 	<img align="center" alt="GitLab" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-plain-wordmark.svg">	
 	<img align="center" alt="Linux" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
-	<img align="center" alt="VisualStudio" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg">
-	<img align="center" alt="Intellij" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original-wordmark.svg">
+	<img align="center" alt="VisualStudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+	<img align="center" alt="Intellij" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg">
+	<img align="center" alt="Jira" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" />
 	<img align="center" alt="Photoshop" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg">
 	<img align="center" alt="Illustrator" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg">
 </div>
 	
 ___
 
-🎓  Master in Computer Science from the Universidade Federal da Bahia.
+### Formação acadêmica:
 
-🎓  Bachelor of Design from the Universidade do Estado da Bahia.
+🎓  Mestre em Ciência da Computação pela Universidade Federal da Bahia(UFBA-BA).
+
+🎓  Bacharel em Design pela Universidade do Estado da Bahia(UNEB-BA).
+
+___
+
+### Contato:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=link_do_seu_perfil_no_linkedin)](https://www.linkedin.com/in/ila-mascarenhas-muniz-58834966/)
 ___
 	
 
-  - Thanks for visiting.😄 
+  - Obrigada pela visita.😄 
  
-  - Enjoy it!! o/
   
