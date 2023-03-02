@@ -55,6 +55,8 @@ ___
 
 <a href="https://www.linkedin.com/in/ila-mascarenhas-muniz-58834966/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" height="30" width="110" /></a>
 	
+<a href="https://gitlab.com/ilamuniz"><img align="center" alt="GitLab" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-plain-wordmark.svg" /></a>
+	
 </div>
 <div>
 	<table align="right">
