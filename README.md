@@ -6,7 +6,7 @@
 
 Um pouco sobre mim:
 
-Sou desenvolvedora júnior. Comecei estudando sobre Interação Humano-Computador e, por isso, estudei HTML, CSS, Javascript e análise de interfaces. Atualmente, estou me concentrando em Java <img width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />, Spring Boot <img width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />, Bancos de Dados e AWS <img align = "center" src="https://i.imgur.com/IhS1TUg.png" alt="aws" width="30" height="30"/>. Estou atuando como back-end Java, mas me interesso em me tornar full stack e aprender novas linguagens.
+Sou desenvolvedora backend Java. Comecei estudando sobre Interação Humano-Computador e, por isso, estudei HTML, CSS, Javascript e análise de interfaces. Atualmente, estou me concentrando em Java <img width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />, Spring Boot <img width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />, Bancos de Dados e AWS <img align = "center" src="https://i.imgur.com/IhS1TUg.png" alt="aws" width="30" height="30"/>. Estou atuando como back-end Java, mas me interesso em me tornar full stack e aprender novas linguagens.
 
 
 <div>
@@ -32,7 +32,9 @@ ___
 	<img align="center" alt="VisualStudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 	<img align="center" alt="Intellij" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg">
 	<img align="center" alt="Jira" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" />
-	<img align= "center" alt="postman" height="35" width="35" src="https://i.imgur.com/WVuA8RH.png"/>
+	<img align= "center" alt="Postman" height="35" width="35" src="https://i.imgur.com/WVuA8RH.png"/>
+	<img align= "center" alt="Docker" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" />
+	<img align= "center" alt="Quarkus" height="65" width="65" src="https://github.com/devicons/devicon/blob/master/icons/quarkus/quarkus-original-wordmark.svg" />
 	<img align="center" alt="Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
 	<img align="center" alt="Illustrator" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg">
 </div>
