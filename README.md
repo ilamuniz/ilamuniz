@@ -6,7 +6,7 @@
 
 Um pouco sobre mim:
 
-Sou desenvolvedora backend Java. Comecei estudando sobre Interação Humano-Computador e, por isso, estudei HTML, CSS, Javascript e análise de interfaces. Atualmente, estou me concentrando em Java <img width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />, Spring Boot <img width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />, Bancos de Dados e AWS <img align = "center" src="https://i.imgur.com/IhS1TUg.png" alt="aws" width="30" height="30"/>. Estou atuando como back-end Java, mas me interesso em me tornar full stack e aprender novas linguagens.
+Comecei a me aventurar na área de Computação através da Interação Humano-Computador e, por isso, estudei primeiramente HTML, CSS, Javascript e análise de interfaces. Atualmente, estou me concentrando em API REST, computação em nuvem, microsserviços e gerenciamento de bancos de dados. Estou atuando como back-end Java, mas me interesso em me tornar full stack e aprender novas linguagens.
 
 
 <div>
@@ -24,7 +24,7 @@ ___
 	<img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
 	<img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
 	<img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg"/>
-	<img align="center" alt="Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg"/>
+	<img align="center" alt="Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
 	<img align="center" alt="Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"/>
 	<img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">
 	<img align="center" alt="GitLab" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-plain-wordmark.svg">	
@@ -37,6 +37,7 @@ ___
 	<img align= "center" alt="Quarkus" height="65" width="65" src="https://github.com/devicons/devicon/blob/master/icons/quarkus/quarkus-original-wordmark.svg" />
 	<img align="center" alt="Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
 	<img align="center" alt="Illustrator" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg">
+	<img align = "center" alt="AWS" src="https://i.imgur.com/IhS1TUg.png" width="30" height="30"/>
 </div>
 	
 ___
