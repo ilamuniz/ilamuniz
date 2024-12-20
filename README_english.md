@@ -2,7 +2,7 @@
 
 A little about myself:
 
-I'm a junior developer. I started studying Human-Computer Interaction and, therefore, I studied HTML, CSS, Javascript and interface analysis. I am currently focusing on Java <img width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />, Spring Boot <img width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />, Databases and AWS <img align = "center" src ="https://i.imgur.com/IhS1TUg.png" alt="aws" width="30" height="30"/>. I'm working as a Java backend, but I'm interested in becoming full stack and learning new languages.
+I started my adventure in the area of ​​Computing through Human-Computer Interaction and, therefore, I first studied HTML, CSS, Javascript and interface analysis. Currently, I am focusing on REST API, cloud computing, microservices and database management. I am working as a Java back-end, but I am interested in becoming full stack and learning new languages.
 
 <div>
   <a href="https://github.com/ilamuniz">
