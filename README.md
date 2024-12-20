@@ -6,7 +6,7 @@
 
 Um pouco sobre mim:
 
-Comecei a me aventurar na área de Computação através da Interação Humano-Computador e, por isso, estudei primeiramente HTML, CSS, Javascript e análise de interfaces. Atualmente, estou me concentrando em API REST, computação em nuvem, microsserviços e gerenciamento de bancos de dados. Estou atuando como back-end Java, mas me interesso em me tornar full stack e aprender novas linguagens.
+Comecei a me aventurar na área de Computação através da Interação Humano-Computador e, por isso, estudei primeiramente HTML, CSS, Javascript e análise de interfaces. Atualmente, estou me concentrando em API REST, computação em nuvem, microsserviços e gerenciamento de bancos de dados. Estou atuando como back-end Java <img width = "20" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />, mas me interesso em me tornar full stack e aprender novas linguagens.
 
 
 <div>
