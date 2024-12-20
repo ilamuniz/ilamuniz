@@ -2,7 +2,7 @@
 
 A little about myself:
 
-I started my adventure in the area of ​​Computing through Human-Computer Interaction and, therefore, I first studied HTML, CSS, Javascript and interface analysis. Currently, I am focusing on REST API, cloud computing, microservices and database management. I am working as a Java back-end, but I am interested in becoming full stack and learning new languages.
+I started my adventure in the area of ​​Computing through Human-Computer Interaction and, therefore, I first studied HTML, CSS, Javascript and interface analysis. Currently, I am focusing on REST API, cloud computing, microservices and database management. I am working as a Java back-end <img width = "20" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />, but I am interested in becoming full stack and learning new languages.
 
 <div>
   <a href="https://github.com/ilamuniz">
