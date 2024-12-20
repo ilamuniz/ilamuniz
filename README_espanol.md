@@ -2,7 +2,7 @@
 
 Un poco de mi:
 
-Soy una desarrolladora junior. Empecé a estudiar Interacción Persona-Computadora y, por tanto, estudié HTML, CSS, Javascript y análisis de interfaces. Actualmente me estoy centranda en Java <img width = "20" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />, Spring Boot <img width = "20" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />, Bases de datos y AWS<img align = "center" src="https://i.imgur.com/IhS1TUg.png" alt="aws" width="30" height="30"/>. Estoy trabajando como backend de Java, pero estoy interesada en convertirme en full stack y aprender nuevas lenguajes.
+Comencé a incursionar en el área de la Computación a través de la Interacción Humano-Computadora y, por ello, primero estudié HTML, CSS, Javascript y análisis de interfaces. Actualmente, me estoy centrando en API REST, computación en la nube, microservicios y gestión de bases de datos. Trabajo como back-end de Java <img width = "20" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />, pero me interesa convertirme en full stack y aprender nuevos lenguajes.
 
 <div>
   <a href="https://github.com/ilamuniz">
